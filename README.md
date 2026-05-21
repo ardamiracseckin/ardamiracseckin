@@ -1,4 +1,4 @@
-# Hi, I'm Miraç Arda Seçkin! 👋
+# Hi, I'm Miraç Arda Seçkin! <img src="https://github.com/ardamiracseckin/ardamiracseckin/blob/main/_.gif" width="50" />
 
 I am a 3rd-year Software Engineering student at Istanbul Health and Technology University. As a software engineering candidate who closely follows emerging technologies, I aim to transform theoretical foundations into practical and innovative solutions. I am eager to step into the industry through a corporate internship opportunity and create value in real-world projects.
 
