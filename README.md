@@ -2,7 +2,7 @@
 
 I am a 3rd-year Software Engineering student at Istanbul Health and Technology University. As a software engineering candidate who closely follows emerging technologies, I aim to transform theoretical foundations into practical and innovative solutions. I am eager to step into the industry through a corporate internship opportunity and create value in real-world projects.
 
-I am currently working on backend development, AI integrations, data classification, and Internet of Things (IoT) architectures.
+I am currently working on backend development, OOP, AI integrations, data classification, and Internet of Things (IoT) architectures.
 
 ---
 
