@@ -4,7 +4,7 @@
 I am a 3rd-year Software Engineering student at Istanbul Health and Technology University. As a software engineering candidate who closely follows emerging technologies, I aim to transform theoretical foundations into practical and innovative solutions. I am eager to step into the industry through a corporate internship opportunity and create value in real-world projects.
 
 I am currently working on backend development, OOP, AI integrations, data classification, and Internet of Things (IoT) architectures.
-https://ardamiracseckin.github.io/
+
 
 ---
 
@@ -51,3 +51,4 @@ If you want to chat about new technologies, projects, or internship opportunitie
 
 * **LinkedIn:** [Miraç Arda Seçkin](https://www.linkedin.com/in/mira%C3%A7-arda-se%C3%A7kin-8198523b2/)
 * **Email:** [ardamiracseckin@gmail.com](mailto:ardamiracseckin@gmail.com)
+* **Portfolio** [https://ardamiracseckin.github.io/]
