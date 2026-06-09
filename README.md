@@ -51,4 +51,4 @@ If you want to chat about new technologies, projects, or internship opportunitie
 
 * **LinkedIn:** [Miraç Arda Seçkin](https://www.linkedin.com/in/mira%C3%A7-arda-se%C3%A7kin-8198523b2/)
 * **Email:** [ardamiracseckin@gmail.com](mailto:ardamiracseckin@gmail.com)
-* **Portfolio** [https://ardamiracseckin.github.io/]
+* **Portfolio** https://ardamiracseckin.github.io/
